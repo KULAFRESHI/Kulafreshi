@@ -1,16 +1,30 @@
-## Hi there 👋
+# kulafreshi
 
-<!--
-**KULAFRESHI/Kulafreshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The Project structure.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+KulaFreshi/
+│
+├── models/
+│   └── product.js
+│
+├── public/
+│   ├── css/
+│   │   └── styles.css
+│   └── js/
+│       └── cart.js
+│
+├── routes/
+│   ├── index.js
+│   └── sales.js
+│
+├── views/
+│   ├── partials/
+│   │   ├── header.ejs
+│   │   └── footer.ejs
+│   ├── home.ejs
+│   └── sales.ejs
+│
+├── .env
+├── app.js
+├── package.json
+└── package-lock.json
