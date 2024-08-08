@@ -50,8 +50,7 @@ KulaFreshi/
 │   │   ├── header.ejs
 │   │   └── footer.ejs
 │   ├── home.ejs
-│   ├──product1.ejs
-│   └──product2.ejs
+│   └──products.ejs
 │
 ├── .env
 ├── app.js
@@ -74,7 +73,7 @@ Implementation Steps:
 
 4. Creating Views:
    - Design the home page 
-   - Design the products pages 
+   - Design the products page
    - Include partial views for the header, navigation and footer.
 
 5. Adding Static Files:
